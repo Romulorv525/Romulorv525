@@ -5,7 +5,7 @@ Olá, eu sou o Rômulo
 
 🚀 Sobre mim
 
-Tenho proficiência em Python, C e Node.js, além de experiência com desenvolvimento web utilizando HTML e CSS. 
+Tenho proficiência em Python, C , Java e Node.js, além de experiência com desenvolvimento web utilizando HTML e CSS. 
 Atuo também com ferramentas de Inteligência Artificial, aplicando conceitos de machine learning e análise computacional em projetos acadêmicos.
 Sou motivado por desafios que envolvem lógica, modelagem de sistemas e desenvolvimento de soluções eficientes.
 
